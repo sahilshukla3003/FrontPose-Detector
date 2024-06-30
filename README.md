@@ -71,7 +71,9 @@ python FrontVidpose.py
 
 **Front Pose** | **Not in Front Pose**
 --- | ---
-![Front Pose](https://github.com/sahilshukla3003/FrontPose-Detector/assets/124785012/13e43dea-daf3-4277-ab58-4539be6301d7) | ![Not in Front Pose](https://github.com/sahilshukla3003/FrontPose-Detector/assets/124785012/6be3a550-6c8e-40e9-8692-566703ee193a)
+![Front Pose](https://github.com/sahilshukla3003/FrontPose-Detector/assets/124785012/902498f6-bf66-4e95-a52d-e129ddf8565b)
+) | ![Not in Front Pose](https://github.com/sahilshukla3003/FrontPose-Detector/assets/124785012/392f2465-afab-484e-ba76-264945721cac)
+)
 
 ### `FrontVidpose.py`
 
