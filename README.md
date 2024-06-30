@@ -61,7 +61,7 @@ This script captures video from the webcam and detects if the subject is in a fr
 
 To run the script:
 ```bash
-python FrontVidpose.py
+python frontVidpose.py
 ```
 
 ## Demo
