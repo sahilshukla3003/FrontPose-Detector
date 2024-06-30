@@ -81,7 +81,7 @@ The `FrontVidpose.py` script opens the webcam and processes the video feed in re
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
 
 ## Acknowledgments
 
