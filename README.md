@@ -77,10 +77,6 @@ python frontVidpose.py
 
 The `FrontVidpose.py` script opens the webcam and processes the video feed in real-time. When the user shows hand gestures in front of the chest, the tool starts a countdown (5 seconds). After the countdown, it captures a photo and checks if the user is in a front pose. The captured photo is then saved.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). See the LICENSE file for details.
-
 ## Acknowledgments
 
 - [OpenCV](https://opencv.org/)
