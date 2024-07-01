@@ -41,7 +41,7 @@ python frontPose.py
 
 ### `FrontVidpose.py`
 
-This script captures video from the webcam and detects if the subject is in a front pose in real-time. It also captures a photo if hands are detected in front of the chest and verifies the front pose in the captured image...
+This script captures video from the webcam and detects if the subject is in a front pose in real-time. It also captures a photo if hands are detected in front of the chest and verifies the front pose in the captured image.
 
 #### Key Functions
 
