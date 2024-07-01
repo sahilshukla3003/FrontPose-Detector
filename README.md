@@ -81,4 +81,3 @@ The `FrontVidpose.py` script opens the webcam and processes the video feed in re
 
 - [OpenCV](https://opencv.org/)
 - [MediaPipe](https://mediapipe.dev/)
-```
