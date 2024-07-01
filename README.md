@@ -23,7 +23,7 @@ This script processes an image to detect whether the subject is in a front pose.
 
 #### Key Functions
 
-- `calculate_angle(v1, v2)`: Calculates the angle between two vectors.
+- `calculate_angle(v1, v2)`: Calculates the angle between two vectors
 - `is_front_pose(landmarks)`: Determines if the detected pose is a front pose based on specific landmark visibility and angles.
 
 #### Usage
